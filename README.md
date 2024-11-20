@@ -15,10 +15,10 @@ A implementação inclui funcionalidades para execução dos métodos CRUD em um
 
 
 ## Saída no terminal:
-![Imagem CLI](https://github.com/breno-almeida-dev/JPA/blob/master/JPA-imagem.png)
+![Imagem JPA](https://github.com/breno-almeida-dev/JPA/blob/master/JPA-imagem.png)
 
 ## Banco de dados:
-![Imagem CLI](https://github.com/breno-almeida-dev/JPA/blob/master/JPA-imagem2.png)
+![Imagem JPA](https://github.com/breno-almeida-dev/JPA/blob/master/JPA-imagem2.png)
 
 ## 📋 Pré-requisitos
 
